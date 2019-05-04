@@ -1,0 +1,16 @@
+{
+  "name": "northern-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A dark theme mostly based on the Nord color palettes.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "north"
+  ],
+  "repository": "https://github.com/dawnerb/northern-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
