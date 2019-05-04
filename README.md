@@ -6,4 +6,5 @@ Just the basics.
 
 Recommended UI: Northem Dark Atom
 
+**Python**
 ![Python](/assets/northern-syntax-python.png)
